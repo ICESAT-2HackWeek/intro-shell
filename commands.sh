@@ -2,7 +2,7 @@ pwd
 ls
 ls -1
 ls -l
-cd
+cd ~
 pwd
 ls
 cd -
