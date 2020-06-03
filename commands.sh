@@ -10,11 +10,10 @@ cd ..
 pwd
 ls
 cd -
-mkdir junk
+mkdir test
 echo 'this text is printed on the screen'
 echo 'this text is saved to a file' > file.txt
-mv file.txt junk.txt
-mv junk.txt junk/
-cat junk/junk.txt
-rm -r junk/junk.txt
-cat commands.sh
+echo 'this is another line of text' >> file.txt
+mv file.txt test/myfile.txt
+cat test/myfile.txt
+# rm -r test
