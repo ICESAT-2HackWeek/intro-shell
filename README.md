@@ -18,4 +18,4 @@ Introduction to the command line basics
 
 ## Questions
 
-    Post your question in the [#questions](https://icesat2hackweek.slack.com/archives/C014V14KA3G) channel on Slack
+Post your question in the [#questions](https://icesat2hackweek.slack.com/archives/C014V14KA3G) channel on Slack
