@@ -10,7 +10,7 @@ Introduction to the command line basics
 
 2. Open a Terminal:
 
-    Find Terminal icon at the bottom (or click the `+` sign on the top left)
+    Click Terminal icon at the bottom (or click the `+` sign on the top left)
 
 3. Clone GitHub repo (type on the terminal):
 
