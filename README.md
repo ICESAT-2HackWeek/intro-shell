@@ -13,4 +13,4 @@ Introduction to the command line basics
 
 3. Clone GitHub repo (type on the terminal):
 
-    git clone https://github.com/ICESAT-2HackWeek/<tutorial-name>
+    `git clone https://github.com/ICESAT-2HackWeek/<tutorial-name>`
