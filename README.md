@@ -11,3 +11,7 @@ Introduction to the command line basics
 ## Questions
 
 Post your question in the [#questions](https://icesat2hackweek.slack.com/archives/C014V14KA3G) channel on Slack
+
+## License
+
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT licenseo](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md).
